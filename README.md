@@ -1,6 +1,6 @@
 # java_object_sql
 
-Java Object Oriented MySql Utils.
+Java Object Oriented Sql Utils.
 
 Access MySql databases creating Querys the right way. Discard String of the type: "Select * from ....".
 
